@@ -10,3 +10,49 @@
 Мы предлагаем вашему вниманию <I> полную объективную и достоверную</I> 
 информацию о разных уголках Земли о странах и путешествиях.
 </font></P>
+<P ALIGN="CENTER"><font face="Verdana" size="2">
+<BIG>Заходите на нашу страничку почаще!</BIG>
+</font></P>
+<HR SIZE="1" WIDTH="80%" COLOR="Blue" >
+</HR>
+<BR>             
+<tr>
+       <td  colspan="2" width="780" height="38" 
+            background="images/menu.jpg">
+          <table border="0"  cellpadding="5" cellspacing="0" align="center">
+               <tr><td>
+                   <a href="index.html">
+                   <font face="Verdana" size="2">
+                   Главная
+                   </font></a> |
+                   <a href=" greece.html">
+                   <font face="Verdana" size="2">
+                  Греция
+                   </font></a> |
+                   <a href="colombia.html">
+                   <font face="Verdana" size="2">
+                  Колумбия
+                   </font></a>|
+                   <a href="germany.html">
+                   <font face="Verdana" size="2">
+                  Германия
+                   </font></a>
+		   </font>
+                   </td></tr>
+          </table>
+       </td>
+     </tr>
+<BR> 
+<HR SIZE="1" WIDTH="80%" COLOR="Blue" >
+</HR>   
+<BR>
+<P ALIGN="CENTER">
+</P>
+<style>
+BODY {
+    background-color: #FCEAD4 
+}
+<BODY Link="#014CA1">
+</style>
+</BODY>
+</HTML>
